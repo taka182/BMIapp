@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI計算アプリ</string>
+    <string name="height_input">身長を入力してください</string>
+    <string name="weight_input">体重を入力してください</string>
+    <string name="text">計算</string>
+    <string name="Clear">Clear</string>
+    <string name="text_bmi">BMI：</string>
+    <string name="text_current_bmi">_______</string>
+    <string name="text_standard_weight">標準体重：</string>
+    <string name="text_current_standard_weight">_______</string>
+</resources>
